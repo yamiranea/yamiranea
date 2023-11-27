@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, I'm Yamila! 😊
 
-<!--
-**yamiranea/yamiranea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying to be a Fullstack Web Developer and also I'm a UX Designer.
 
-Here are some ideas to get you started:
+📚 The technologies that I'm working on
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+<li>React</li>
+<li>PHP</li>
+<li>Laravel</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools that I'm using
+<ul>
+<li>VS Code</li>
+<li>Trello</li>
+<li>Notion</li>
+<li>Figma</li>
+<li>FigJam</li>
+<li>Adobe XD</li>
+</ul>
+
+🧚🏼 I would like to be more fluent in the technologies that I'm learning and be able to incorporate new skills with other languages too.<br>
+⚽️ I really enjoy being part of teams, collaborate and have different point of views to get better results.
