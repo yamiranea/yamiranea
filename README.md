@@ -1,6 +1,11 @@
 ### Hi, I'm Yamila! 😊
-
-I'm studying to be a Fullstack Web Developer and also I'm a UX Designer.
+<h3 align="left"> 🔍 About me</h3>
+I am a passionate Fullstack Web Developer in training and UX Designer with established experience in user-centered design. I am currently immersed in an exciting development bootcamp that will culminate in April this year.<br><br>
+My strong background in UX design is now combined with a determined focus on web development, merging my skills to create holistic and effective digital experiences.
+I've held roles in UX design and management at startups, which has allowed me to grow alongside companies and learn from unique challenges.<br><br>
+I love pushing my limits with situations that take me out of my comfort zone, and my commitment to continuous learning is a key part of my approach. I enjoy working in teams to achieve common goals and am excited to apply my developing skills to further enrich my capabilities.<br><br>
+<em>If you're looking for a professional who combines development and UX design experience, <br>
+I'd be happy to explore exciting opportunities with you - don't hesitate to get in touch to start a conversation!</em>
 
 <h3 align="left">📚 Languages that I'm working with:</h3>
 <div align="left">
