@@ -1,9 +1,8 @@
 ### Hi, I'm Yamila! 😊
 <h3 align="left"> 🔍 About me</h3>
-I am a passionate Fullstack Web Developer in training and UX Designer with established experience in user-centered design. I am currently immersed in an exciting development bootcamp that will culminate in April this year.<br><br>
-My strong background in UX design is now combined with a determined focus on web development, merging my skills to create holistic and effective digital experiences.
-I've held roles in UX design and management at startups, which has allowed me to grow alongside companies and learn from unique challenges.<br><br>
-I love pushing my limits with situations that take me out of my comfort zone, and my commitment to continuous learning is a key part of my approach. I enjoy working in teams to achieve common goals and am excited to apply my developing skills to further enrich my capabilities.<br><br>
+Hello and welcome! I'm a passionate Fullstack Web Developer and UX Designer with consolidated experience in user-centered design.<br><br>
+My strong background in UX design is now combined with a determined focus on web development, merging my skills to create holistic and effective digital experiences. I've held roles in UX design and management at startups, which has allowed me to grow alongside companies and learn from unique challenges.<br><br>
+I love challenges that take me out of my comfort zone, and my commitment to continuous learning is a key part of my approach. I enjoy working in teams to achieve common goals and am excited to apply my skills in development to further enrich my capabilities.<br><br>
 
 🧚🏼 I would like to be more fluent in the technologies that I'm learning and be able to incorporate new skills with other languages too.<br>
 ⚽️ I really enjoy being part of teams, collaborate and have different point of views to get better results.<br>
@@ -24,12 +23,13 @@ I love pushing my limits with situations that take me out of my comfort zone, an
 <h3 align="left">🛠 Frameworks and tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"/>   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" width="42" alt="laravel logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  height="30" width="42" alt="git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" width="42" alt="laravel logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"  height="42" width="42" alt="git logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" width="42" alt="tailwind logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="42" width="42" alt="tailwind logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwind logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="30" width="42" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" width="42" alt="tailwind logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" width="42" alt="tailwind logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" width="42" alt="materialui logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
