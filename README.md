@@ -1,12 +1,14 @@
 ### Hi, I'm Yamila! 😊
 <h3 align="left"> 🔍 About me</h3>
-Hello and welcome! I'm a passionate Fullstack Web Developer and UX Designer with consolidated experience in user-centered design.<br><br>
-My strong background in UX design is now combined with a determined focus on web development, merging my skills to create holistic and effective digital experiences. I've held roles in UX design and management at startups, which has allowed me to grow alongside companies and learn from unique challenges.<br><br>
-I love challenges that take me out of my comfort zone, and my commitment to continuous learning is a key part of my approach. I enjoy working in teams to achieve common goals and am excited to apply my skills in development to further enrich my capabilities.<br><br>
+Hello and welcome! I am a passionate Full-Stack Web Developer and UX Designer with a solid background in user-centered design. I combine my strong UX experience with a strong focus on web development to create seamless and effective digital experiences.<br><br>
+I have had the opportunity to work in UX design and management roles in startups, which has allowed me to grow with the companies and learn from unique challenges. This experience has given me the ability to adapt to dynamic environments, work on challenging projects, and collaborate effectively with multidisciplinary teams.<br><br>
+
+I have a strong command of UX design tools like Figma and Adobe XD, and in the field of web development, I am proficient in languages and frameworks like JavaScript, React, Tailwind CSS, SASS and Bootstrap, PHP, Laravel, Testing and MySQL database management.<br><br>
 
 🧚🏼 I would like to be more fluent in the technologies that I'm learning and be able to incorporate new skills with other languages too.<br>
 ⚽️ I really enjoy being part of teams, collaborate and have different point of views to get better results.<br>
-🤍 I like listening to music in English, HIIT weights workouts and exploring new things to learn.
+🤍 I enjoy HIIT weight training, expanding my knowledge and acquiring new skills, and listening to music in English. I love discovering new places, and I am particularly fascinated by the Asturian villages.
+
 
 
 <h3 align="left">📚 Languages that I'm working with:</h3>
@@ -15,8 +17,6 @@ I love challenges that take me out of my comfort zone, and my commitment to cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"/>   
- 
-
 </div></br>
 
 
